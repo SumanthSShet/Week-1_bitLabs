@@ -1,0 +1,9 @@
+1.Write an algorithm to accept 3 subjects marks and print total and average marks.
+
+s1: Enter marks for sub 1
+s2: Enter marks for Sub 2
+s3: Enter marks for sub 3
+s4: total marks = sub1 + sub2 + sub3
+s5: average marks = total marks / 3
+s6: display Total marks
+s7: display Average marks

@@ -1,0 +1,7 @@
+3. write an algorithm to accept basic salary and find gross salary.gross salary = basic salary + hra + Da, hra is 87% on basic salary, Da is 89% on basic salary.
+
+ s1:  read basic salary
+ s2:  hra = 0.87 * basic salary
+ s3:  da = 0.89 * basic salary
+ s4:  gross salary = basic salary + hra + da
+ s5:  display gross salary 
