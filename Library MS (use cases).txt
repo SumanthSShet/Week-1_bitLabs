@@ -1,0 +1,19 @@
+Library Management System 
+
+Use Cases
+
+Digital Collection: digital content such as e-books, audiobooks, and videos.
+
+Room Reservations: The system can be used to manage the reservations, including scheduling, billing, and reporting.
+
+Online Booking: such as study rooms, meeting rooms, and library resources, directly from the library website.
+
+Automatic Notifications: The system can be configured to automatically send notifications, such as due date reminders, hold notifications.
+
+Automated Late Fees: The system can be configured to automatically charge late fees for items that are returned past their due date, and to track the total amount of late fees.
+
+Gamification of Reading: The system can be configured to gamify the reading experience, rewarding for checking out books, reading for a certain amount of time.
+
+Digital Book Recommendations: The system can be configured to provide personalized book recommendations, based on their reading history, reading preferences, and other factors.
+
+Book Wishlists: The system can be configured to allow to create wishlists of books people would like to read, and to notify them when the books become available.
