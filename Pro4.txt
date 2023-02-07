@@ -1,0 +1,16 @@
+read project score 
+read external score 
+read internal score
+if scores are >=50 proceed 
+elif fail
+final score = project score * 0.7 + external score * 0.2 + internal score * 0.1
+if final score >= 90
+display a
+elif final score >= 70
+display B
+elif final score >= 50
+display C
+else
+display Fail
+display grades
+
